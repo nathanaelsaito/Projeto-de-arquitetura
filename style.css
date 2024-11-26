@@ -52,12 +52,14 @@
     margin-left: 150px;
     margin-top: 250px; 
     display: flex;
+    font-family: 'inter';
 }
 #textodaimagem{
     margin-left: 150px;
     margin-top: 80px;
     display: flex;
     font-size: 22px;
+    font-family: 'inter';
 }
 #formulario{
     margin-top: 250px;
@@ -69,6 +71,7 @@
     color: #FFFFFF;
     margin-top: -60px;
     padding: 50px;
+    font-family: 'inter';
 }
 input{
     color: #000000;
